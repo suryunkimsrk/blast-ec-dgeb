@@ -1,5 +1,6 @@
 # BLAST EC Classification
-SP26 CS690 Final Project (S. Kim)
+SP26 CS690 Computational Biology and Bioinformatics
+Final Project (S. Kim)
 
 ## Description
 Evaluating BLAST performance vs. foundation models 
