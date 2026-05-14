@@ -4,7 +4,7 @@ Final Project (S. Kim)
 
 ## Description
 Evaluating BLAST performance vs. foundation models 
-on the EC classification task from DGEB.
+on the EC Amino Acid classification task from DGEB.
 
 ## Data
 EC classification dataset from HuggingFace:
