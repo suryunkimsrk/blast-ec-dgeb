@@ -2,6 +2,8 @@
 SP26 CS690 Computational Biology and Bioinformatics
 Final Project (S. Kim)
 
+![](https://img.shields.io/badge/Topic-Bioinformatics%20%7C%20Sequence%20Alignment-blue)
+
 ## Description
 Evaluating BLAST performance vs. foundation models 
 on the EC Amino Acid classification task from DGEB.
